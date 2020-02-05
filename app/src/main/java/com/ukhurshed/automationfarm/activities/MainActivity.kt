@@ -1,7 +1,8 @@
-package com.ukhurshed.automationfarm
+package com.ukhurshed.automationfarm.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ukhurshed.automationfarm.R
 
 class MainActivity : AppCompatActivity() {
 
